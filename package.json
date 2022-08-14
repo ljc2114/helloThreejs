@@ -1,0 +1,27 @@
+{
+  "name": "hellothreejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljc2114/helloThreejs.git"
+  },
+  "author": "刘佳驰",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljc2114/helloThreejs/issues"
+  },
+  "homepage": "https://github.com/ljc2114/helloThreejs#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "three": "^0.143.0"
+  }
+}
